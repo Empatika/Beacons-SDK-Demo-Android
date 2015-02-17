@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="BeaconSDK-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/BeaconSDK/libs/zxing-2.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/BeaconSDK/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/BeaconSDK/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

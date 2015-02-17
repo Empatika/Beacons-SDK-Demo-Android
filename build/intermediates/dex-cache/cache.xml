@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sergeysmetanin/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.46/6751df56389e007307f6c68d87811d3bb151a112/ormlite-core-4.46.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6751df56389e007307f6c68d87811d3bb151a112">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/ormlite-core-4.46-42baf1e8f88c28c4d3f9bc0c864a54b196edcc4f.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-62ff07544e5163d25fcfb81c3c5e9cd0259524f1.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-6d2f917ad34207471870fde57d601305e95dd1e7.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/Beacons-SDK-Demo-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/Beacons-SDK-Demo-Android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b1f602d460f27c62b481ee7e7a40ae0b82b3641a.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/classes-2bf937cebda2b9ebc06e1708151abad2b3f7868e.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.10/8d62b91f5ccb6f7f872313191c016c03bb61a792/library-1.0.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d62b91f5ccb6f7f872313191c016c03bb61a792">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/library-1.0.10-cc6bb1cbc5c146704df110a3a6bc216ed381e5b9.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.46/f92cf8ce949fc7ddfac03d91f9bef2d1548cb2dd/ormlite-android-4.46.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f92cf8ce949fc7ddfac03d91f9bef2d1548cb2dd">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/ormlite-android-4.46-012a24f2349d52d197d6fc13019de1b814f8d1a9.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/Beacons-SDK-Demo-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/Beacons-SDK-Demo-Android/app/build/intermediates/pre-dexed/debug/classes-0135a247354048e892be507893a69e666402fefb.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/exploded-aar/BeaconSDK/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bdcba3add8b97c30448e207eb10ffc10e8120e03">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/classes-e5acd67ff8291515c8fe3a90f75d1a2beb6fb855.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/exploded-aar/BeaconSDK/libs/zxing-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/zxing-2.1-07899aa438b27279e276331f0c5e0e4d1956cc03.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/classes-224388e62defc601be2b8959e1ddb887059a6bb8.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/Beacons-SDK-Demo-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/Beacons-SDK-Demo-Android/app/build/intermediates/pre-dexed/debug/classes-dd9a42b980fc4ba63f5bd2f06d64fb0702331366.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/gson-2.2.4-107f4378acb8e33b0c67d8e10aad7ad8cca90ac6.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/Beacons-SDK-Demo-Android/app/build/intermediates/exploded-aar/BeaconSDK/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bdcba3add8b97c30448e207eb10ffc10e8120e03">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/Beacons-SDK-Demo-Android/app/build/intermediates/pre-dexed/debug/classes-50734d8a57ff71ae4a4d6ba971b8112c1c6b2aad.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/BeaconsSDKDemo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1437b4dd5effba39bfb6687dd84ce54c32876c8b.jar" />
+    </item>
+    <item
+        jar="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/Beacons-SDK-Demo-Android/app/build/intermediates/exploded-aar/BeaconSDK/libs/zxing-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="/Users/sergeysmetanin/AndroidStudioProjects/RuBeacon/Beacons-SDK-Demo-Android/app/build/intermediates/pre-dexed/debug/zxing-2.1-d4a4904d99dec684ed96274e4b208555778ee995.jar" />
+    </item>
+
+</items>
